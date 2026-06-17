@@ -11,8 +11,8 @@ img {
 }
 
 
-h1, h2, h3 {@import url('https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Bitcount+Ink:wght@100..900&display=swap');
-  color: ;
+h1, h2, h3 
+  color:#0c6653;
   background-color:#33ffd3;
   text-align: center;
 }
