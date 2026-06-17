@@ -1,1 +1,21 @@
+body {
+ color: #06b9bf; 
+text-align: center;
+margin: auto;
+max-width: 700px
+}
 
+img {
+ display: block;
+ margin: auto;
+}
+
+
+h1, h2, h3 {@import url('https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Bitcount+Ink:wght@100..900&display=swap');
+  color: ;
+  background-color: #51f5a8;
+  text-align: center;
+}
+   
+nav {
+    Width
